@@ -4,5 +4,5 @@
 ├── style
 │   └── stylesheet.css
 └── images
-    ├── photo1.png
-    └── photo2.png
+    ├── image0.png
+    └── image1.png
