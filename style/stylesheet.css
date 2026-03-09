@@ -1,1 +1,60 @@
+style/stylesheet.css
+body{
+font-family: Arial, sans-serif;
+background-color:#e6e6e6;
+margin:0;
+padding:0;
+}
 
+header{
+background-color:black;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+main{
+width:80%;
+margin:auto;
+}
+
+.card{
+background:white;
+border:2px solid gray;
+margin:20px;
+padding:20px;
+border-radius:10px;
+}
+
+.profile-photo{
+width:300px;
+margin:10px;
+border:3px solid black;
+padding:5px;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+}
+
+th,td{
+border:1px solid black;
+padding:10px;
+text-align:center;
+}
+
+footer{
+text-align:center;
+background:black;
+color:white;
+padding:15px;
+margin-top:20px;
+}
