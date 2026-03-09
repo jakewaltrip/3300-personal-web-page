@@ -3,6 +3,6 @@
 ├── schedule.html
 ├── style
 │   └── stylesheet.css
-└── Images
+└── images
     ├── image0.png
     └── image1.png
