@@ -5,5 +5,6 @@
 ├── style
 │   └── stylesheet.css
 ├── images
-│   ├── benji.jpg
-│   └── family.jpg
+│   ├── photo1.jpg
+│   └── photo2.jpg
+└── .github
