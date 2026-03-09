@@ -1,2 +1,9 @@
-# 3300-personal-web-page
-Hw Mod 7
+3300-personal-web-page
+│
+├── index.html
+├── schedule.html
+├── style
+│   └── stylesheet.css
+├── images
+│   ├── benji.jpg
+│   └── family.jpg
